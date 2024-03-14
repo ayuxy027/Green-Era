@@ -648,7 +648,11 @@ video {
 .w-\[100vw\] {
   width: 100vw;
 }
-
+#page2 {
+  background-image: url("../Assets/corner-flower.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .-translate-x-1\/2 {
   --tw-translate-x: -50%;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
